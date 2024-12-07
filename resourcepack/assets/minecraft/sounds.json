@@ -1,0 +1,563 @@
+{
+	"item.shield.block": {
+		"replace": false,
+		"sounds": [
+			"bonk"
+		]
+	},
+	"block.anvil.use": {
+		"replace": false,
+		"sounds": [
+			"gmod-metal"
+		]
+	},
+	"block.anvil.land": {
+		"replace": false,
+		"sounds": [
+			"metalpipe"
+		]
+	},
+	"entity.player.burp": {
+		"replace": false,
+		"sounds": [
+			"lars-monsen-herlig",
+			"lars-monsen-herlig-2",
+			"lars-monsen-herlig-3",
+			{
+				"name": "mr-melk-schmaker-godt",
+				"volume": 0.4
+			}
+		]
+	},
+	"entity.frog.tongue": {
+		"replace": false,
+		"sounds": [
+			"what-are-you-doing-in-my-swamp"
+		]
+	},
+	"entity.mooshroom.suspicious_milk": {
+		"replace": false,
+		"sounds": [
+			"he-needs-some-milk-vine",
+			"mr-melk-schmaker-godt",
+			"mr-melk-kjempebra-protein",
+			"mr-melk-leve-sunt"
+		]
+	},
+	"entity.mooshroom.milk": {
+		"replace": false,
+		"sounds": [
+			"he-needs-some-milk-vine",
+			"mr-melk-schmaker-godt",
+			"mr-melk-kjempebra-protein",
+			"mr-melk-leve-sunt"
+		]
+	},
+	"entity.cow.milk": {
+		"replace": false,
+		"sounds": [
+			"he-needs-some-milk-vine",
+			"mr-melk-schmaker-godt",
+			"mr-melk-kjempebra-protein",
+			"mr-melk-leve-sunt"
+		]
+	},
+	"entity.goat.milk": {
+		"replace": false,
+		"sounds": [
+			"he-needs-some-milk-vine",
+			"mr-melk-schmaker-godt",
+			"mr-melk-kjempebra-protein",
+			"mr-melk-leve-sunt"
+		]
+	},
+	"entity.creeper.primed": {
+		"replace": false,
+		"sounds": [
+			{
+				"name": "obiwan-hello-there",
+				"pitch": 1
+			},
+			{
+				"name": "ismet-hallo-der",
+				"pitch": 1
+			},
+			{
+				"name": "surprise-motherfucka",
+				"pitch": 1
+			}
+		]
+	},
+	"entity.ender_dragon.death": {
+		"replace": false,
+		"sounds": [
+			"ussr-anthem-sting",
+			"gta-sa-mission-complete",
+			"shittyflute-titanic"
+		]
+	},
+	"entity.enderman.stare": {
+		"replace": false,
+		"sounds": [
+			"alert",
+			"brah",
+			"omae-wa-mou-shindeiru",
+			"jontron-what",
+			"megalovania",
+			"vine-boom"
+		]
+	},
+	"entity.enderman.scream": {
+		"replace": false,
+		"sounds": [
+			"halo-elite-hahahahahahaha",
+			"halo-elite-killedenemyplayer8",
+			"halo-elite-waagh",
+			"noot-noot",
+			"pikachu-thunderbolt"
+		]
+	},
+	"entity.enderman.ambient": {
+		"replace": false,
+		"sounds": [
+			"wort-wort-wort",
+			"halo-elite-woboba",
+			"halo-elite-groupuncover1",
+			"op",
+			"uwu",
+			"gnome-woo",
+			"jon-almaas-landskap",
+			"jon-almaas-hoy-slank-urmann",
+			"jon-almaas-hvorfor-gaa-ut-av-baaten",
+			"jon-almaas-koste-meg",
+			"jon-almaas-lars-monsen-fikser",
+			"jon-almaas-lars-monsen-ogsaa-gjort",
+			"jon-almaas-liten-oerret",
+			"woop-woop",
+			"jon-almaas-sett-deg-paa-tv-foer"
+		]
+	},
+	"entity.enderman.death": {
+		"replace": false,
+		"sounds": [
+			"gmod-ragdoll",
+			"lars-monsen-slutt-for-jon"
+		]
+	},
+	"entity.enderman.hurt": {
+		"replace": false,
+		"sounds": [
+			"halo-elite-sightednewenemy3",
+			"halo-elite-waagh",
+			"ismet-korkort",
+			"sm64-hurt",
+			"jon-almaas-helvete",
+			"jon-almaas-oi"
+		]
+	},
+	"entity.enderman.teleport": {
+		"replace": false,
+		"sounds": [
+			"sm64-yahoo"
+		]
+	},
+	"entity.ender_pearl.throw": {
+		"replace": false,
+		"sounds": [
+			{
+				"name": "kor-ska-vi-reis-hen-nu",
+				"pitch": 2.5
+			},
+			{
+				"name": "men-kor-ska-vi-reis-hen-nu",
+				"pitch": 2.5
+			}
+		]
+	},
+	"block.portal.trigger": {
+		"replace": false,
+		"sounds": [
+			"kor-ska-vi-reis-hen-nu",
+			"men-kor-ska-vi-reis-hen-nu"
+		]
+	},
+	"entity.iron_golem.death": {
+		"replace": false,
+		"sounds": [
+			"metalpipe"
+		]
+	},
+	"entity.iron_golem.hurt": {
+		"replace": false,
+		"sounds": [
+			"gmod-metal"
+		]
+	},
+	"entity.zombified_piglin.ambient": {
+		"replace": false,
+		"sounds": [
+			"think-its-dead",
+			"its-dead-anyway",
+			"scotland-pound-note",
+			"uncle-devvo",
+			"devvo-what-are-you",
+			"devvo-showed-you-didnt-i",
+			"devvo-area",
+			"devvo-boss-of-jobs",
+			"devvo-dole-day",
+			"devvo-how-you-doing-buddy",
+			"devvo-job",
+			"devvo-loads-o-birds",
+			"devvo-lyrical-madness",
+			"devvo-stood-on-that",
+			"devvo-studio",
+			"devvo-time"
+		]
+	},
+	"entity.zombified_piglin.angry": {
+		"replace": false,
+		"sounds": [
+			"stop-him",
+			"woah-mate",
+			"not-too-fast",
+			"why-dint-ya-stop-him",
+			"knobhead",
+			"stupid-knobhead",
+			"lookin-at",
+			"right-hook",
+			"fookin-knobhead",
+			"devvo-where-you-going-tiger",
+			"devvo-yeee",
+			"devvo-ass"
+		]
+	},
+	"entity.zombified_piglin.hurt": {
+		"replace": false,
+		"sounds": [
+			"not-a-good-day",
+			"watch-what-youre-doing",
+			"you-still-here",
+			"devvo-what-you-doin",
+			"devvo-lorry"
+		]
+	},
+	"entity.zombified_piglin.death": {
+		"replace": false,
+		"sounds": [
+			"metalpipe",
+			"spaces-mc-datapack:pipe/metal-pipe-drop-1",
+			"spaces-mc-datapack:pipe/metal-pipe-drop-2",
+			"spaces-mc-datapack:pipe/metal-pipe-drop-3",
+			"spaces-mc-datapack:pipe/metal-pipe-drop-4-loud",
+			"spaces-mc-datapack:pipe/metal-pipe-drop-5-loud"
+		]
+	},
+	"entity.piglin.ambient": {
+		"replace": false,
+		"sounds": [
+			"lars-monsen-hvis-man-er-nordpaa",
+			"lars-monsen-erre-jon-almaas",
+			"lars-monsen-jamen-saa-goy-da",
+			"lars-monsen-kom-tilbake",
+			"lars-monsen-kanke-gaa-naa"
+		]
+	},
+	"entity.piglin.jealous": {
+		"replace": false,
+		"sounds": [
+			"lars-monsen-kom-igjen-a"
+		]
+	},
+	"entity.piglin.retreat": {
+		"replace": false,
+		"sounds": [
+			"lars-monsen-kom-tilbake",
+			"lars-monsen-kanke-gaa-naa",
+			"lars-monsen-faen-a"
+		]
+	},
+	"entity.piglin.admiring_item": {
+		"replace": false,
+		"sounds": [
+			"lars-monsen-erre-jon-almaas",
+			"lars-monsen-velkommen-i-klubben"
+		]
+	},
+	"entity.piglin.celebrate": {
+		"replace": false,
+		"sounds": [
+			"lars-monsen-herlig",
+			"lars-monsen-herlig-2",
+			"lars-monsen-herlig-3",
+			"lars-monsen-jamen-saa-goy-da",
+			"lars-monsen-kult"
+		]
+	},
+	"entity.piglin.angry": {
+		"replace": false,
+		"sounds": [
+			"lars-monsen-slutt-for-jon",
+			"lars-monsen-da-er-det-alvor",
+			"lars-monsen-faen-a"
+		]
+	},
+	"entity.piglin.hurt": {
+		"replace": false,
+		"sounds": [
+			"lars-monsen-helvete-ish",
+			"lars-monsen-faen"
+		]
+	},
+	"entity.piglin.death": {
+		"replace": false,
+		"sounds": [
+			"lars-monsen-faen"
+		]
+	},
+	"block.sculk_sensor.clicking": {
+		"replace": false,
+		"sounds": [
+			"skeleton-doot",
+			"aah",
+			"alert",
+			"discord-message",
+			"samsung-message",
+			"whatsapp-message",
+			"steam-message",
+			"goose-honk",
+			{
+				"name": "msn-message",
+				"volume": 0.4
+			},
+			{
+				"name": "plane-cabin-crew-call",
+				"volume": 0.4
+			},
+			"uwu",
+			"ismet-korkort",
+			"tada",
+			"click-nice",
+			{
+				"name": "among",
+				"volume": 0.3
+			},
+			{
+				"name": "ding",
+				"volume": 0.3
+			}
+		]
+	},
+	"block.sculk_shrieker.shriek": {
+		"replace": false,
+		"sounds": [
+			"horn",
+			"not-a-sheep-aaaaa",
+			"reeeeeeeee",
+			"discord-call",
+			"skype-call",
+			"halo-elite-waagh",
+			"friday-damn",
+			"csi-miami-fooled-again",
+			"baka",
+			"amogus_emergency",
+			"kids-cheering-yaaaaay",
+			"zelda-mm-bells",
+			"no-god-please-no-noooooooooo",
+			"hallo-alle-schammen-song",
+			"scotland-forever"
+		]
+	},
+	"entity.warden.emerge": {
+		"replace": false,
+		"sounds": [
+			"it-was-at-this-moment-that-he-knew",
+			"discord-join",
+			"hello-your-computer-has-virus",
+			"pizza-here",
+			"what-are-you-doing-in-my-swamp",
+			"why-are-you-running",
+			"its-me-mario",
+			"duke-wifi-password",
+			"today-we-have-payback-time",
+			"windows-xp-startup",
+			"nei-slutt-naa-da-prinsesse",
+			"ea_games",
+			{
+				"name": "loud-fbi-open-up-explosion",
+				"volume": 0.6
+			},
+			{
+				"name": "loud-thomas-the-tank-engine",
+				"volume": 0.4
+			},
+			{
+				"name": "loud-suka-blyat-hardbass",
+				"volume": 0.3
+			},
+			{
+				"name": "shindeiru-loud-screech",
+				"volume": 0.3
+			},
+			"schmaker-godt-song"
+		]
+	},
+	"entity.warden.dig": {
+		"replace": false,
+		"sounds": [
+			"discord-leave",
+			"skype-disconnect",
+			"windows-shutdown",
+			"sm64-baibai"
+		]
+	},
+	"entity.villager.trade": {
+		"replace": false,
+		"sounds": [
+			"stonks",
+			"kaching",
+			"yaya",
+			"here-comes-the-money"
+		]
+	},
+	"entity.wandering_trader.trade": {
+		"replace": false,
+		"sounds": [
+			"stonks",
+			"kaching",
+			"yaya",
+			"here-comes-the-money"
+		]
+	},
+	"entity.zombie.attack_wooden_door": {
+		"replace": false,
+		"sounds": [
+			"knock-knock"
+		]
+	},
+	"entity.zombie.attack_iron_door": {
+		"replace": false,
+		"sounds": [
+			"knock-knock"
+		]
+	},
+	"entity.zombie.break_wooden_door": {
+		"replace": false,
+		"sounds": [
+			"fbi-open-up"
+		]
+	},
+	"entity.husk.converted_to_zombie": {
+		"replace": false,
+		"sounds": [
+			"new-zombie"
+		]
+	},
+	"entity.piglin.converted_to_zombified": {
+		"replace": false,
+		"sounds": [
+			"new-zombie"
+		]
+	},
+	"entity.zombie.converted_to_drowned": {
+		"replace": false,
+		"sounds": [
+			"new-zombie"
+		]
+	},
+	"entity.zombie.infect": {
+		"replace": false,
+		"sounds": [
+			"new-zombie"
+		]
+	},
+	"block.beehive.enter": {
+		"replace": false,
+		"sounds": [
+			{
+				"name": "my-pad",
+				"volume": 0.4
+			}
+		]
+	},
+	"block.beehive.exit": {
+		"replace": false,
+		"sounds": [
+			{
+				"name": "obiwan-hello-there",
+				"volume": 0.4
+			},
+			{
+				"name": "ismet-hallo-der",
+				"volume": 0.4
+			}
+		]
+	},
+	"block.enchantment_table.use": {
+		"replace": false,
+		"sounds": [
+			"wa-wa-weewa",
+			"shiny"
+		]
+	},
+	"block.dispenser.launch": {
+		"replace": false,
+		"sounds": [
+			"yeet"
+		]
+	},
+	"block.piston.contract": {
+		"replace": false,
+		"sounds": [
+			{
+				"name": "today-we-have-payback-time",
+				"attenuation_distance": 8
+			}
+		]
+	},
+	"block.piston.extend": {
+		"replace": false,
+		"sounds": [
+			{
+				"name": "welcome-to-hydraulic-press-channel",
+				"attenuation_distance": 8
+			}
+		]
+	},
+	"block.smoker.smoke": {
+		"replace": false,
+		"sounds": [
+			{
+				"name": "den-koker-vi",
+				"attenuation_distance": 8
+			},
+			{
+				"name": "den-koker-v-hehehehe",
+				"attenuation_distance": 8
+			},
+			{
+				"name": "det-meste-koker-vi-den-den-den-den",
+				"attenuation_distance": 8
+			},
+			{
+				"name": "det-skal-jo-kokes",
+				"attenuation_distance": 8
+			},
+			{
+				"name": "er-jo-fin-koke-den-og",
+				"attenuation_distance": 8
+			},
+			{
+				"name": "nei-den-er-fin-koke-den-og",
+				"attenuation_distance": 8
+			},
+			{
+				"name": "tar-vare-men-koker",
+				"attenuation_distance": 8
+			},
+			{
+				"name": "a-little-bit-of-cayenne",
+				"attenuation_distance": 8
+			}
+		]
+	}
+}
