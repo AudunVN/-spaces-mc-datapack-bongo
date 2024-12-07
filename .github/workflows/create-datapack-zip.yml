@@ -20,14 +20,14 @@ jobs:
             /*.github/*
             /*.vscode/*
             latest-source.zip
-            spaces-mc-datapack.zip
-            spaces-mc-datapack-resources.zip
+            spaces-mc-datapack-bongo.zip
+            spaces-mc-datapack-bongo-resources.zip
 
       - name: Archive Datapack
         uses: thedoctor0/zip-release@0.7.1
         with:
           type: 'zip'
-          filename: 'spaces-mc-datapack.zip'
+          filename: 'spaces-mc-datapack-bongo.zip'
           directory: 'datapack'
           exclusions: > 
             .gitkeep
@@ -36,7 +36,7 @@ jobs:
         uses: thedoctor0/zip-release@0.7.1
         with:
           type: 'zip'
-          filename: 'spaces-mc-datapack-resources.zip'
+          filename: 'spaces-mc-datapack-bongo-resources.zip'
           directory: 'resourcepack'
           exclusions: > 
             .gitkeep
@@ -53,6 +53,6 @@ jobs:
           replacesArtifacts: true
           artifacts:
             datapack/spaces-mc-datapack.zip,
-            resourcepack/spaces-mc-datapack-resources.zip,
+            resourcepack/spaces-mc-datapack-bongo-resources.zip,
             latest-source.zip
           token: ${{ secrets.GITHUB_TOKEN }}
