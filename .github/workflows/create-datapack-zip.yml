@@ -52,7 +52,7 @@ jobs:
           makeLatest: true
           replacesArtifacts: true
           artifacts:
-            datapack/spaces-mc-datapack.zip,
+            datapack/spaces-mc-datapack-bongo.zip,
             resourcepack/spaces-mc-datapack-bongo-resources.zip,
             latest-source.zip
           token: ${{ secrets.GITHUB_TOKEN }}
