@@ -35,6 +35,87 @@
 			"what-are-you-doing-in-my-swamp"
 		]
 	},
+	"entity.pillager.ambient": {
+		"replace": true,
+		"sounds": [
+			"entity-pillager-ambient/guardinghostageescapezone01",
+			"entity-pillager-ambient/guardinghostageescapezone03",
+			"entity-pillager-ambient/guardinghostages05",
+			"entity-pillager-ambient/heardnoise01-2",
+			"entity-pillager-ambient/heardnoise01",
+			"entity-pillager-ambient/heardnoise02-2",
+			"entity-pillager-ambient/heardnoise02",
+			"entity-pillager-ambient/heardnoise03-2",
+			"entity-pillager-ambient/heardnoise03",
+			"entity-pillager-ambient/heardnoise04",
+			"entity-pillager-ambient/inposition01-2",
+			"entity-pillager-ambient/inposition01",
+			"entity-pillager-ambient/peptalk03",
+			"entity-pillager-ambient/radio_enemyspotted02",
+			"entity-pillager-ambient/radio_enemyspotted05",
+			"entity-pillager-ambient/radio_locknload06",
+			"entity-pillager-ambient/radio_locknload10",
+			"entity-pillager-ambient/spottedloosebomb04",
+			"entity-pillager-ambient/spottedloosebomb07",
+			"entity-pillager-ambient/spottedloosebomb08",
+			"entity-pillager-ambient/thanks02",
+			"entity-pillager-ambient/tmap_cs_source14",
+			"entity-pillager-ambient/tmap_cs_source146",
+			"entity-pillager-ambient/tmap_cs_source62"
+		]
+	},
+	"entity.pillager.celebrate": {
+		"replace": true,
+		"sounds": [
+			"entity-pillager-celebrate/enemydown05",
+			"entity-pillager-celebrate/enemydown06",
+			"entity-pillager-celebrate/lastmanstanding02",
+			"entity-pillager-celebrate/lastmanstanding03",
+			"entity-pillager-celebrate/lastmanstanding06-2",
+			"entity-pillager-celebrate/lastmanstanding06",
+			"entity-pillager-celebrate/niceshot04",
+			"entity-pillager-celebrate/niceshot08",
+			"entity-pillager-celebrate/niceshot09",
+			"entity-pillager-celebrate/onarollbrag02",
+			"entity-pillager-celebrate/onarollbrag08",
+			"entity-pillager-celebrate/onarollbrag09-2",
+			"entity-pillager-celebrate/onarollbrag09",
+			"entity-pillager-celebrate/radiobotendclean04-2",
+			"entity-pillager-celebrate/thanks04"
+		]
+	},
+	"entity.pillager.hurt": {
+		"replace": true,
+		"sounds": [
+			"entity-pillager-hurt/friendlyfire03",
+			"entity-pillager-hurt/friendlyfire04",
+			"entity-pillager-hurt/help03",
+			"entity-pillager-hurt/help04",
+			"entity-pillager-hurt/help05",
+			"entity-pillager-hurt/pinneddown01",
+			"entity-pillager-hurt/pinneddown04",
+			"entity-pillager-hurt/radiobotfallback01",
+			"entity-pillager-hurt/radiobotfallback02",
+			"entity-pillager-hurt/radiobotfallback04",
+			"entity-pillager-hurt/radio_takingfire06",
+			"entity-pillager-hurt/scaredemote01",
+			"entity-pillager-hurt/scaredemote04",
+			"entity-pillager-hurt/scaredemote06"
+		]
+	},
+	"entity.pillager.death": {
+		"replace": true,
+		"sounds": [
+			"entity-pillager-death/t_death01-2",
+			"entity-pillager-death/t_death01",
+			"entity-pillager-death/t_death02-2",
+			"entity-pillager-death/t_death02",
+			"entity-pillager-death/t_death03-3",
+			"entity-pillager-death/t_death03",
+			"entity-pillager-death/t_death04-4",
+			"entity-pillager-death/t_death04"
+		]
+	},
 	"entity.mooshroom.suspicious_milk": {
 		"replace": false,
 		"sounds": [
