@@ -1,4 +1,19 @@
 {
+	"entity.player.death": {
+		"replace": true,
+		"sounds": [
+			"cod4-mission-failed",
+			"discord-leave",
+			"it-was-at-this-moment-that-he-knew",
+			"kids-cheering-yaaaaay",
+			"roblox-death-sound-effect",
+			"skype-disconnect",
+			"stop-it-get-some-help",
+			"the-price-is-right-losing-horn",
+			"you-are-fine-but-you-are-not-fine",
+			"gmod-ragdoll"
+		]
+	},
 	"item.shield.block": {
 		"replace": false,
 		"sounds": [
@@ -176,7 +191,9 @@
 			"pillager-tmap_cs_source14",
 			"pillager-tmap_cs_source146",
 			"pillager-tmap_cs_source62",
-			"pillager-csgo-awp-reload"
+			"pillager-csgo-awp-reload",
+			"gun",
+			"gunfire"
 		]
 	},
 	"entity.pillager.celebrate": {
@@ -229,6 +246,50 @@
 			"pillager-t_death03",
 			"pillager-t_death04-4",
 			"pillager-t_death04"
+		]
+	},
+	"item.crossbow.shoot": {
+		"replace": true,
+		"sounds": [
+			"awp-01",
+			"awp-02",
+			"awp1"
+		]
+	},
+	"item.crossbow.loading_start": {
+		"replace": true,
+		"sounds": [
+			"awp-boltback"
+		]
+	},
+	"item.crossbow.loading_middle": {
+		"replace": true,
+		"sounds": [
+			"awp-cliphit"
+		]
+	},
+	"item.crossbow.loading_end": {
+		"replace": true,
+		"sounds": [
+			"awp-boltforward"
+		]
+	},
+	"item.crossbow.quick_charge_1": {
+		"replace": true,
+		"sounds": [
+			"awp-boltback"
+		]
+	},
+	"item.crossbow.quick_charge_2": {
+		"replace": true,
+		"sounds": [
+			"awp-boltback"
+		]
+	},
+	"item.crossbow.quick_charge_3": {
+		"replace": true,
+		"sounds": [
+			"awp-boltback"
 		]
 	},
 	"entity.mooshroom.suspicious_milk": {
