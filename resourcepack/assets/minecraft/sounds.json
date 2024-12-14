@@ -193,7 +193,12 @@
 			"pillager-tmap_cs_source62",
 			"pillager-csgo-awp-reload",
 			"gun",
-			"gunfire"
+			"gunfire",
+			"ak47-boltpull",
+			"ak47-draw",
+			"c4-initiate",
+			"zoom",
+			"ssg08-distant"
 		]
 	},
 	"entity.pillager.celebrate": {
@@ -361,7 +366,10 @@
 			"omae-wa-mou-shindeiru",
 			"jontron-what",
 			"megalovania",
-			"vine-boom"
+			"vine-boom",
+			"vine-run",
+			"nani-soreeeee",
+			"lego-city-hey"
 		]
 	},
 	"entity.enderman.scream": {
@@ -673,7 +681,10 @@
 			"stonks",
 			"kaching",
 			"yaya",
-			"here-comes-the-money"
+			"here-comes-the-money",
+			"sugoi-sugoi",
+			"woooow-sparkle-sparkle",
+			"wa-wa-weewa"
 		]
 	},
 	"entity.wandering_trader.trade": {
