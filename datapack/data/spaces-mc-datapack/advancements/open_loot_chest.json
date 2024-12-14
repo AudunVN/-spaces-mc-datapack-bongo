@@ -1,0 +1,26 @@
+{
+	"display": {
+		"title": {
+			"text": "Open a loot chest."
+		},
+		"description": {
+			"text": "du-dU-du-DUUUUUUU"
+		},
+		"icon": {
+			"item": "minecraft:golden_sword"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": true
+	},
+	"criteria": {
+		"Player opens loot chest": {
+			"trigger": "minecraft:player_generates_container_loot"
+		}
+	},
+	"rewards": {
+		"function": "spaces-mc-datapack:advancements/open_loot_chest_reward"
+	},
+	"parent": "spaces-mc-datapack:root"
+}
