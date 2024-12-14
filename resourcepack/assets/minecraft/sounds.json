@@ -35,6 +35,117 @@
 			"what-are-you-doing-in-my-swamp"
 		]
 	},
+	"entity.donkey.ambient": {
+		"replace": true,
+		"sounds": [
+			"dunkey-bill-nice-try-guys",
+			"dunkey-bill-turn-on-the-music",
+			"dunkey-can-you-feel-the-sunshine",
+			"dunkey-duck-quack",
+			"dunkey-hey-guys-its-me",
+			"dunkey-hey-guys-notebook",
+			"dunkey-horse-horse-horse",
+			"dunkey-i-gotchu",
+			"dunkey-im-not-a-mouse",
+			"dunkey-im-one-of-them-now",
+			"dunkey-knack-ladies-and-gents",
+			"dunkey-oooh-this-guy-can-help-me",
+			"dunkey-parking",
+			"dunkey-pelican",
+			"dunkey-see-where-my-fellow-player-has-fallen",
+			"dunkey-sneakman",
+			"dunkey-stroll",
+			"dunkey-tag-team-intro-narrator",
+			"dunkey-thats-golf",
+			"dunkey-this-game-is-a-joke-knack-2-mastapiss",
+			"dunkey-uh-HEH",
+			"dunkey-whats-this-thing-oh",
+			"dunkey-ya-know-bob"
+		]
+	},
+	"entity.donkey.angry": {
+		"replace": true,
+		"sounds": [
+			"dunkey-almost-dead-master-of-videogames",
+			"dunkey-crab-tophat",
+			"dunkey-do-you-even-know-who-i-am",
+			"dunkey-en-garde",
+			"dunkey-fight-me",
+			"dunkey-fuck-you-spiderman",
+			"dunkey-gimme-one-more-hit",
+			"dunkey-gotta-kid",
+			"dunkey-hey-fuck-you",
+			"dunkey-hitman",
+			"dunkey-i-have-the-high-ground",
+			"dunkey-i-wasnt-even-trying",
+			"dunkey-im-a-dickhead",
+			"dunkey-im-stuck-gonna-get-cursed",
+			"dunkey-lookwhosback",
+			"dunkey-nascar-vrrrrrm",
+			"dunkey-pp-bizon-bby",
+			"dunkey-sad-bro",
+			"dunkey-shot-in-the-face",
+			"dunkey-spinmove",
+			"dunkey-thats-not-a-professional",
+			"dunkey-uh-oh-busted",
+			"dunkey-uh-oh-fuck",
+			"dunkey-uh-oh",
+			"dunkey-WAAAA",
+			"dunkey-watch-out-singed-back",
+			"dunkey-ya-idiot",
+			"dunkey-you-set-me-up",
+			"dunkey-you-will-never-catch-me"
+		]
+	},
+	"entity.donkey.death": {
+		"replace": true,
+		"sounds": [
+			"dunkey-fucking-liar",
+			"dunkey-getting-outta-here",
+			"dunkey-good-thing-i-have-my-die-move",
+			"dunkey-im-done-with-league",
+			"dunkey-nonono-you-threw-me-off-a-cliff",
+			"dunkey-noononononon",
+			"dunkey-seeya",
+			"dunkey-thank-you-dark-souls",
+			"dunkey-this-game-is-a-fucking-disaster"
+		]
+	},
+	"entity.donkey.eat": {
+		"replace": true,
+		"sounds": [
+			"dunkey-can-you-pet-the-pizza",
+			"dunkey-chicken",
+			"dunkey-dont-laugh-this-gives-me-poison-resistance",
+			"dunkey-gimme-wiener-pizza",
+			"dunkey-gonna-get-em",
+			"dunkey-haHA-come-to-daddy",
+			"dunkey-i-did-it",
+			"dunkey-i-gotchu",
+			"dunkey-ill-have-the-spaghetti-and-meatballs",
+			"dunkey-its-a-masterpiece",
+			"dunkey-ocean",
+			"dunkey-ocean2",
+			"dunkey-technique-not-even-close-baby",
+			"dunkey-this-is-amazing",
+			"dunkey-this-is-my-mastapiss"
+		]
+	},
+	"entity.donkey.hurt": {
+		"replace": true,
+		"sounds": [
+			"dunkey-gu-UHH",
+			"dunkey-HEEEY",
+			"dunkey-nice-try-guy-2",
+			"dunkey-nononononno",
+			"dunkey-not-even-close-bby",
+			"dunkey-oo-mama-1",
+			"dunkey-oo-mama-2",
+			"dunkey-oo-mama-3",
+			"dunkey-oo-mama-4",
+			"dunkey-you-cant-even-block-this-thing"
+		]
+	},
 	"entity.pillager.ambient": {
 		"replace": true,
 		"sounds": [
@@ -59,9 +170,11 @@
 			"pillager-spottedloosebomb07",
 			"pillager-spottedloosebomb08",
 			"pillager-thanks02",
+			"pillager-thanks04",
 			"pillager-tmap_cs_source14",
 			"pillager-tmap_cs_source146",
-			"pillager-tmap_cs_source62"
+			"pillager-tmap_cs_source62",
+			"pillager-csgo-awp-reload"
 		]
 	},
 	"entity.pillager.celebrate": {
@@ -81,7 +194,7 @@
 			"pillager-onarollbrag09-2",
 			"pillager-onarollbrag09",
 			"pillager-radiobotendclean04-2",
-			"pillager-thanks04"
+			"pillager-csgo-mvp"
 		]
 	},
 	"entity.pillager.hurt": {
