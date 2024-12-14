@@ -60,40 +60,27 @@
 			"dunkey-this-game-is-a-joke-knack-2-mastapiss",
 			"dunkey-uh-HEH",
 			"dunkey-whats-this-thing-oh",
-			"dunkey-ya-know-bob"
+			"dunkey-crab-tophat",
+			"dunkey-nascar-vrrrrrm",
+			"dunkey-shot-in-the-face",
+			"dunkey-pp-bizon-bby",
+			"dunkey-spinmove",
+			"dunkey-gotta-kid",
+			"dunkey-hitman",
+			"dunkey-i-wasnt-even-trying",
+			"dunkey-lookwhosback"
 		]
 	},
 	"entity.donkey.angry": {
 		"replace": true,
 		"sounds": [
-			"dunkey-almost-dead-master-of-videogames",
-			"dunkey-crab-tophat",
 			"dunkey-do-you-even-know-who-i-am",
 			"dunkey-en-garde",
 			"dunkey-fight-me",
-			"dunkey-fuck-you-spiderman",
-			"dunkey-gimme-one-more-hit",
-			"dunkey-gotta-kid",
 			"dunkey-hey-fuck-you",
-			"dunkey-hitman",
 			"dunkey-i-have-the-high-ground",
-			"dunkey-i-wasnt-even-trying",
-			"dunkey-im-a-dickhead",
-			"dunkey-im-stuck-gonna-get-cursed",
-			"dunkey-lookwhosback",
-			"dunkey-nascar-vrrrrrm",
-			"dunkey-pp-bizon-bby",
-			"dunkey-sad-bro",
-			"dunkey-shot-in-the-face",
-			"dunkey-spinmove",
-			"dunkey-thats-not-a-professional",
 			"dunkey-uh-oh-busted",
-			"dunkey-uh-oh-fuck",
-			"dunkey-uh-oh",
-			"dunkey-WAAAA",
 			"dunkey-watch-out-singed-back",
-			"dunkey-ya-idiot",
-			"dunkey-you-set-me-up",
 			"dunkey-you-will-never-catch-me"
 		]
 	},
@@ -108,7 +95,8 @@
 			"dunkey-noononononon",
 			"dunkey-seeya",
 			"dunkey-thank-you-dark-souls",
-			"dunkey-this-game-is-a-fucking-disaster"
+			"dunkey-this-game-is-a-fucking-disaster",
+			"dunkey-almost-dead-master-of-videogames"
 		]
 	},
 	"entity.donkey.eat": {
@@ -143,7 +131,21 @@
 			"dunkey-oo-mama-2",
 			"dunkey-oo-mama-3",
 			"dunkey-oo-mama-4",
-			"dunkey-you-cant-even-block-this-thing"
+			"dunkey-you-cant-even-block-this-thing",
+			"dunkey-fuck-you-spiderman",
+			"dunkey-uh-oh",
+			"dunkey-uh-oh-fuck",
+			"dunkey-gimme-one-more-hit",
+			"dunkey-WAAAA",
+			"dunkey-im-a-dickhead",
+			"dunkey-im-stuck-gonna-get-cursed",
+			"dunkey-thats-not-a-professional",
+			"dunkey-sad-bro",
+			"dunkey-ya-idiot",
+			"dunkey-you-set-me-up",
+			"dunkey-hey-fuck-you",
+			"dunkey-do-you-even-know-who-i-am",
+			"dunkey-spinmove"
 		]
 	},
 	"entity.pillager.ambient": {
